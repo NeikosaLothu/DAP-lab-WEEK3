@@ -1,0 +1,12 @@
+Manual for GUI Calculator
+1. Features
+Perform basic arithmetic operations: Addition (+), Subtraction (-), Multiplication (*), Division (/).
+Clear the input field using the "C" button.
+Evaluate expressions using the "=" button.
+
+2. How to Use
+Open the Python script and run it (python filename.py).
+Click number buttons (0-9) to enter digits.
+Click operator buttons (+, -, *, /) to perform calculations.
+Press "=" to get the result.
+Press "C" to clear the input field.
